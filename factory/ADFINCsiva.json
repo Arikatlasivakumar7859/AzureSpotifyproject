@@ -1,0 +1,9 @@
+{
+	"name": "ADFINCsiva",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "882d7049-d461-4b4a-a888-161e1ee35bc5",
+		"tenantId": "66e69b1a-4867-4243-a50a-07a2e25c600c"
+	}
+}
